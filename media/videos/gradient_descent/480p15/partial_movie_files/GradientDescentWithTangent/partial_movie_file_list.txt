@@ -1,0 +1,12 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/minchan/Data Science/pyvi/media/videos/gradient_descent/480p15/partial_movie_files/GradientDescentWithTangent/1185818338_3902333551_2879510190.mp4'
+file 'file:/Users/minchan/Data Science/pyvi/media/videos/gradient_descent/480p15/partial_movie_files/GradientDescentWithTangent/624642324_998078688_3030406828.mp4'
+file 'file:/Users/minchan/Data Science/pyvi/media/videos/gradient_descent/480p15/partial_movie_files/GradientDescentWithTangent/624642324_998078688_2939498584.mp4'
+file 'file:/Users/minchan/Data Science/pyvi/media/videos/gradient_descent/480p15/partial_movie_files/GradientDescentWithTangent/624642324_998078688_4182559908.mp4'
+file 'file:/Users/minchan/Data Science/pyvi/media/videos/gradient_descent/480p15/partial_movie_files/GradientDescentWithTangent/624642324_998078688_3406429044.mp4'
+file 'file:/Users/minchan/Data Science/pyvi/media/videos/gradient_descent/480p15/partial_movie_files/GradientDescentWithTangent/624642324_998078688_3712016970.mp4'
+file 'file:/Users/minchan/Data Science/pyvi/media/videos/gradient_descent/480p15/partial_movie_files/GradientDescentWithTangent/624642324_998078688_3383160206.mp4'
+file 'file:/Users/minchan/Data Science/pyvi/media/videos/gradient_descent/480p15/partial_movie_files/GradientDescentWithTangent/624642324_998078688_1004200725.mp4'
+file 'file:/Users/minchan/Data Science/pyvi/media/videos/gradient_descent/480p15/partial_movie_files/GradientDescentWithTangent/624642324_998078688_463089590.mp4'
+file 'file:/Users/minchan/Data Science/pyvi/media/videos/gradient_descent/480p15/partial_movie_files/GradientDescentWithTangent/624642324_998078688_870126406.mp4'
+file 'file:/Users/minchan/Data Science/pyvi/media/videos/gradient_descent/480p15/partial_movie_files/GradientDescentWithTangent/624642324_634017564_2830338865.mp4'
